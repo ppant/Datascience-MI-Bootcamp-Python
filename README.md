@@ -10,3 +10,5 @@ Repository for Datascience and Machine learning bootcamp using Python
 * Seaborn plotting exercises code
 * Output Plots from choroleth maps 2012 USA Election Voting age population
 * Output Plots from choroleth maps 2014 World Power Cosumption
+* Machine learning Linerar Regression modelling project source code
+
